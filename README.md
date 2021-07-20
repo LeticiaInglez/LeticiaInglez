@@ -1,17 +1,16 @@
-### Olá! 👋:purple_heart:
+### Hello! 👋I'm Letícia 
 
 
-:books: Estudante de Ciência de Dados
+:books: I'm a Data Science student
 
-⚡ Cursando MBA Data Science & Analitycs na USP/ESALQ 
-https://mbauspesalq.com/cursos/mba-em-data-science-e-analytics/
+⚡ I'm currently learning MBA Data Science & Analitycs na USP/ESALQ   https://mbauspesalq.com/cursos/mba-em-data-science-e-analytics/
 
-⚡ Em formação  Ciência de Dados na Data Science Academy
+⚡ I'm trainig as Data Scientist at Data Science Academy
 https://www.datascienceacademy.com.br
 
-:computer: Em transição de carreira a procura de colocação profissional 
+:computer: In career transition looking for a job placement 
 
-:house_with_garden: São Paulo/SP Brasil
+:house_with_garden: São Paulo/SP Brazil
 
 
 <img align='left' src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="8%" height="8%"></img>leticiainglez@outlook.com
@@ -33,7 +32,7 @@ https://www.datascienceacademy.com.br
 
 <h2> </h2>
       
-Obrigada pela visita!😄 
+Thanks for visiting!:purple_heart:
 
       
       
