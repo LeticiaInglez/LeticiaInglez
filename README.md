@@ -30,10 +30,11 @@ https://www.datascienceacademy.com.br
 <img align='left' src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 <img align='left' src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=SQL&logoColor=white"></img>
 <img align='left' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></img>
-<img align='left' src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
+
 <img align='left' src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 <img align='left' src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></img>
 <img align='left' src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
+<img align='left' src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
 <img align='left' src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></img>
 <img align='left' src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></img>
 <img align='left' src="https://img.shields.io/badge/Azure_Machine_Learning-5E5C5C?style=for-the-badge&logo=Azure_Machine_Leanring&logoColor=white"></img>
