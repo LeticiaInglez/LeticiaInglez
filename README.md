@@ -13,9 +13,9 @@ https://www.datascienceacademy.com.br
 :house_with_garden: São Paulo/SP Brazil
 
 
-<img align='left' src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="8.1%" height="8.1%"></img>leticiainglez@outlook.com
+<img align='left' src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="8.5%" height="8.5%"></img>leticiainglez@outlook.com
 
-<img align='left' src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="8.1%" height="8.1%"></img>+55 11 99799-4698
+<img align='left' src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="8.5%" height="8.5%"></img>+55 11 99799-4698
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiainglez/)](https://www.linkedin.com/in/leticiainglez/)
 
