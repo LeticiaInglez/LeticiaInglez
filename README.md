@@ -3,12 +3,10 @@
 
 I'm a Data Analytics Lover 📊💙 and Data Science student:books: 
 
-⚡ I'm currently learning MBA Data Science & Analitycs na USP/ESALQ   https://mbauspesalq.com/cursos/mba-em-data-science-e-analytics/
+⚡ Graduated in Data Science & Analitycs at USP/ESALQ   https://mbauspesalq.com/cursos/mba-em-data-science-e-analytics/
 
-⚡ I'm trainig as Data Scientist at Data Science Academy
-https://www.datascienceacademy.com.br
 
-:computer: In career transition looking for a job placement 
+:computer: Data Scientist focused on CRM(Customer Relationship Management) , Behavior and Marketing modeling
 
 :house_with_garden: São Paulo/SP Brazil
 
@@ -19,7 +17,6 @@ https://www.datascienceacademy.com.br
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiainglez/)](https://www.linkedin.com/in/leticiainglez/)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LeticiaInglez)](https://github.com/LeticiaInglez)
 
 <h2> </h2>
 
@@ -33,10 +30,7 @@ https://www.datascienceacademy.com.br
 <img align='left' src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white"></img>
 <img align='left' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></img>
 <img align='left' src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
-<img align='left' src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></img>
 <img align='left' src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
-<img align='left' src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
-<img align='left' src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></img>
 <img align='left' src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></img>
 <img align='left' src="https://img.shields.io/badge/Azure_Machine_Learning-5E5C5C?style=for-the-badge&logo=Azure_Machine_Leanring&logoColor=white"></img>
 
