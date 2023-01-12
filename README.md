@@ -43,8 +43,6 @@ I'm a Data Analytics Lover 📊💙 and Data Science student:books:
 <br>
 <br>
   
-
-<table align="center">
 <row>
 <td>
   
