@@ -48,9 +48,6 @@ I'm a Data Analytics Lover 📊💙 and Data Science student:books:
 <row>
 <td>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticiaInglez&show_icons=True&theme=tokyonight)](https://github.com/LeticiaInglez/github-readme-stats)
-  </table>
-
 <h2> </h2>
       
 Thanks for visiting!:purple_heart:
